@@ -12,3 +12,4 @@ Commit em dupla com co-autoria.
 - Registro de evolução #6 para conquista Pull Shark
 - Registro de evolução #7 para conquista Pull Shark
 - Registro de evolução #8 para conquista Pull Shark
+- Registro de evolução #9 para conquista Pull Shark
